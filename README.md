@@ -47,14 +47,14 @@ This analysis of Walmart's weekly sales data from 2010-2012 reveals critical ins
 1. Data Overview and Preparation
 The dataset is clean and well-structured, providing a solid foundation for analysis.
 Code:
-  
+![Uploading image.png…]()
+
 Output:
  
 
 The data contains 6,435 records across 8 variables with no missing values or duplicates, ensuring the integrity of our analysis.
 Code:
  
-<img width="186" height="138" alt="image" src="https://github.com/user-attachments/assets/7015982d-1a5a-4ef8-a62d-ea7bd349d046" />
 
 
 Output:
