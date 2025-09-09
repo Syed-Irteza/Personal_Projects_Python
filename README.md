@@ -56,18 +56,21 @@ Output:
 2. Strategic Planning & Financial Forecasting
 Question: Based on the clear seasonal trends and quarterly patterns, how should we set our annual sales targets and allocate our budget for inventory and marketing across different quarters?
 Analysis: We analyzed sales trends by month and quarter to identify seasonal patterns.
+
 Code:
+
+<img width="252" height="174" alt="image" src="https://github.com/user-attachments/assets/9d3bfbca-f4f1-40b4-9d79-0d103a9985bc" />
  
 
 
 
-
-
-
-
-
-
 Diagram:
+
+<img width="468" height="206" alt="image" src="https://github.com/user-attachments/assets/2da40846-3742-404c-a7e9-868d5244f8c4" />
+
+
+
+
  
 Findings & Recommendations:
 •	Q4 is Dominant: Sales in Q4 are consistently ~ 60% higher than in other quarters due to the holiday season (Thanksgiving, Christmas).
@@ -81,13 +84,38 @@ Informed Decisions:
 3. Store Operations & Performance Management
 Question: Which stores are the top and bottom performers, and why is there such a significant variation?
 Analysis: We ranked stores by total sales and analyzed their distributions.
+
 Code:
+
+<img width="311" height="172" alt="image" src="https://github.com/user-attachments/assets/da6f4813-3265-472c-b33d-d2d3d120a23a" />
+
+
+
+
  
 Output:
+
+<img width="180" height="100" alt="image" src="https://github.com/user-attachments/assets/c5565692-61ad-44a1-8c06-f19fb588a8af" />
+
+
+
+
  
 Diagram:
+
+<img width="404" height="216" alt="image" src="https://github.com/user-attachments/assets/a803e721-5d9d-40cf-afef-3801d766b281" />
+
+
+
+
  
-Diagram:
+
+
+<img width="404" height="182" alt="image" src="https://github.com/user-attachments/assets/52170979-01b9-4b19-8285-6ab580972f85" />
+
+
+
+
  
 Findings & Recommendations:
 •	Significant Disparity: Store 20 is the top performer, with sales nearly double that of the lowest-performing stores.
