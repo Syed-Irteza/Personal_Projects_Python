@@ -6,22 +6,6 @@ Walmart Sales Data: Comprehensive Analysis and Strategic Decision-Making Report
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Executive Summary
 This analysis of Walmart's weekly sales data from 2010-2012 reveals critical insights into seasonal trends, store performance, and the impact of external economic factors. Key findings include significant sales spikes during holiday periods, a strong negative correlation between unemployment and sales, and the ability to segment stores into three distinct performance clusters. The data provides a robust foundation for strategic decisions in inventory management, marketing, store operations, and financial forecasting. Implementing the recommended actions will optimize operations and drive revenue growth.
 
@@ -33,35 +17,36 @@ This analysis of Walmart's weekly sales data from 2010-2012 reveals critical ins
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 1. Data Overview and Preparation
 The dataset is clean and well-structured, providing a solid foundation for analysis.
+
 Code:
 <img width="292" height="184" alt="image" src="https://github.com/user-attachments/assets/e09b65a9-edd9-4ca3-bef0-d80a81f04702" />
 
 
+
+
 Output:
 <img width="292" height="168" alt="image" src="https://github.com/user-attachments/assets/30bdccde-4d98-45f8-949d-69be3ec6fdaf" />
+
  
 
+
+
 The data contains 6,435 records across 8 variables with no missing values or duplicates, ensuring the integrity of our analysis.
+
 Code:
 <img width="257" height="176" alt="image" src="https://github.com/user-attachments/assets/396cb982-2fe8-4c51-ad76-3b5118f01a60" />
  
 
 
+
+
 Output:
 <img width="257" height="193" alt="image" src="https://github.com/user-attachments/assets/52ce3461-0452-4fe2-a86c-387f383908e3" />
+
+
+
 
  
 2. Strategic Planning & Financial Forecasting
