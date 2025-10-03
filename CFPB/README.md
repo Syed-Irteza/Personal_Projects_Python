@@ -1,4 +1,5 @@
-Executive Summary
+**Executive Summary**
+
 This comprehensive analysis examines consumer complaint data from the Consumer Financial Protection Bureau (CFPB), providing valuable insights into complaint patterns, company responsiveness, and consumer financial service issues. The analysis leverages data visualization techniques to identify key trends and areas requiring immediate attention from financial institutions and regulatory bodies.
 
 
@@ -8,12 +9,12 @@ This comprehensive analysis examines consumer complaint data from the Consumer F
 
 1.	Which year and day of week had recorded the most number of complaints?
    
-Code:
+**Code:**
 
 <img width="192" height="189" alt="image" src="https://github.com/user-attachments/assets/b5ccc037-4123-4b2c-91ff-cbe45d12e1b1" />
 
  
-Output:
+**Output:**
 
 <img width="301" height="121" alt="image" src="https://github.com/user-attachments/assets/8b0ed880-75d5-4f98-a435-9c3c220beebd" />
 <img width="301" height="145" alt="image" src="https://github.com/user-attachments/assets/74700d50-cf56-438d-9d34-f3e291d8d738" />
