@@ -1,8 +1,12 @@
 1.	Which year and day of week had recorded the most number of complaints?
+   
 Code:
+
 <img width="192" height="189" alt="image" src="https://github.com/user-attachments/assets/b5ccc037-4123-4b2c-91ff-cbe45d12e1b1" />
+
  
 Output:
+
 <img width="301" height="121" alt="image" src="https://github.com/user-attachments/assets/8b0ed880-75d5-4f98-a435-9c3c220beebd" />
 <img width="301" height="145" alt="image" src="https://github.com/user-attachments/assets/74700d50-cf56-438d-9d34-f3e291d8d738" />
  
@@ -13,16 +17,22 @@ The Monthly Complaint Volume Trend indicates that the volume was the highest on 
 
    
 2.	What are the top 10 products that dominate complaint volumes?
+   
 Code:
+
 <img width="247" height="144" alt="image" src="https://github.com/user-attachments/assets/b02fd6ee-10d2-4ab9-863e-781df68c05ee" />
+
  
 Output:
+
 <img width="248" height="139" alt="image" src="https://github.com/user-attachments/assets/0600379c-57dc-4517-8ad9-8dc1272df741" />
+
  
 Findings:
 According to the diagram, the most frequently complained-about product is "Credit reporting or other personal consumer reports." "Credit reporting, credit services, or other personal consumer reports" came in second, followed by "Debt collection" in third, "mortgage" in fourth, and "checking or savings account" in fifth.
 
 3.	What are the top issues?
+   
 Code:
  
 <img width="248" height="121" alt="image" src="https://github.com/user-attachments/assets/72db245e-6a5c-40c6-bd8e-f920c94900cd" />
@@ -37,14 +47,10 @@ Findings:
 The primary concerns, as indicated by the diagram, were as follows: the first was "Incorrect information on your report," the second was "Improper use of your report," the third was "Problem with a company's investigation into an existing problem," the fourth was "Problem with a credit reporting company's investigation into an existing problem," and the fifth was "Attempts to collect debt not owed."
 
 4.	What are the top companies to receive highest volume of complaint?
+   
 Code:
  
-
 <img width="328" height="163" alt="image" src="https://github.com/user-attachments/assets/20afc51b-17b3-4a88-9ba3-6b680cf51770" />
-
-
-
-
 
 
 Output:
@@ -55,6 +61,7 @@ Output:
  
 Findings:
 Equifax, INC. had received the greatest number of complaints of 2,730,821, following that in second place was TRANSUNION INTERMEDIATE HOLDINGS, INC with 2,673,214 complaints and in third place was Experian Information Solutions Inc. with 2,481,817 complaints.
+
 5.	Which states have the highest volume of complaints?
 
 Code:
