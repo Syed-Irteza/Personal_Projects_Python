@@ -82,6 +82,7 @@ Analysis: We analyzed sales trends by month and quarter to identify seasonal pat
 2.	Inventory Planning: Work with suppliers to ensure stock levels are built up in late Q3 to meet Q4 demand.
 3.	Target Setting: Set aggressive but achievable sales targets for Q4, while aiming for steady, incremental growth in Q1-Q3 based on the previous year's performance.
 
+
 3. Store Operations & Performance Management
 Question: Which stores are the top and bottom performers, and why is there such a significant variation?
 Analysis: We ranked stores by total sales and analyzed their distributions.
