@@ -35,7 +35,7 @@ The dataset is clean and well-structured, providing a solid foundation for analy
 
 
 
-The data contains 6,435 records across 8 variables with no missing values or duplicates, ensuring the integrity of our analysis.
+**Findings & Recommendations:** The data contains 6,435 records across 8 variables with no missing values or duplicates, ensuring the integrity of our analysis.
 
 **Code:**
 
