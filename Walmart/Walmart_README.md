@@ -76,6 +76,7 @@ Analysis: We analyzed sales trends by month and quarter to identify seasonal pat
 •	Q4 is Dominant: Sales in Q4 are consistently ~ 60% higher than in other quarters due to the holiday season (Thanksgiving, Christmas).
 •	Steady Growth: Average sales show a slight year-over-year increase from 2010 to 2012 in Q1-Q3.
 •	2012 Q4 Anomaly: 2012 Q4 sales were significantly lower than previous years; this warrants investigation into potential data or external factors.
+
 **Informed Decisions:**
 1.	Budget Allocation: Allocate 40-50% of the annual marketing and inventory budget to Q4 to capitalize on high demand.
 2.	Inventory Planning: Work with suppliers to ensure stock levels are built up in late Q3 to meet Q4 demand.
