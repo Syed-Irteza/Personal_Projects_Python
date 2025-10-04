@@ -127,6 +127,7 @@ Informed Decisions:
 2.	Root Cause Analysis: Mandate a deep-dive analysis into the bottom 5 performing stores to determine causes: is it location, local competition, poor management, or store size?
 3.	Performance Incentives: Tie store manager bonuses to both total sales and consistency (reducing variance), encouraging stable performance.
 
+
 4. Marketing & Promotions
 Question: Holidays have a statistically significant impact on sales. Which specific holidays drive the largest sales lifts?
 Analysis: We compared sales on holiday vs. non-holiday weeks and measured the impact by month.
@@ -151,7 +152,7 @@ Analysis: We compared sales on holiday vs. non-holiday weeks and measured the im
 •	Top Holidays: December (Christmas) and November (Thanksgiving) have the most significant impact by far.
 Informed Decisions:
 1.	Campaign Focus: Concentrate the most prominent marketing campaigns (TV, digital ads, circulars) around November and December.
-2.	Promotional Planning: Plan "doorbuster" deals and major promotions for the weeks leading up to Thanksgiving and Christmas to capture the full wave of demand.
+2.	Promotional Planning: Plan "doorbuster" deals and major promotions for the weeks leading up to Thanksgiving and Christmas to capture the 	full wave of demand.
 3.	Budget justification: Use the 24% sales lift metric to justify increased marketing spend during all holiday periods, not just year-end.
 
 5. Economic Strategy & Risk Management
@@ -200,10 +201,10 @@ Analysis: We calculated the correlation of external factors with Weekly Sales.
  
 **Findings & Recommendations:**
 •	Unemployment: Has a moderate negative correlation (-0.20) with sales. As unemployment rises, sales tend to fall.
-•	CPI (Consumer Price Index): Has a moderate positive correlation (0.19). This may indicate that as the general cost of living rises, more people shop at Walmart for its value proposition.
+•	CPI (Consumer Price Index): Has a moderate positive correlation (0.19). This may indicate that as the general cost of living rises, more 	people shop at Walmart for its value proposition.
 •	Weak Influences: Temperature and Fuel Price have almost no linear correlation with weekly sales.
 **Informed Decisions:**
-1.	Recession Planning: Develop a contingency plan for economic downturns. This should include a focus on promoting essential goods and value brands to retain cost-conscious customers.
+1.	Recession Planning: Develop a contingency plan for economic downturns. This should include a focus on promoting essential goods and value 	brands to retain cost-conscious customers.
 2.	Market Positioning: Leverage the positive CPI correlation in marketing messaging: "Walmart helps you fight inflation."
 3.	Ignore Noise: Do not base pricing or promotion strategies on fluctuations in fuel prices, as there is no measurable impact on sales.
 
@@ -213,9 +214,9 @@ Question: How did the weekly sales fluctuate over the year?
 
 Analysis: The analysis reveals fundamental characteristic of Walmart's sales data:
 Clear and Predictable Seasonal Patterns:
-•	The decomposition shows strong, recurring yearly seasonality (period=52 weeks). This is visually evident as large, consistent peaks that occur at the same point each year (corresponding to the year-end holiday season around November/December) and troughs (e.g., in January).
-•	The trend component is relatively stable or slightly increasing over the 2010-2012 period. There is no evidence of a sharp decline or explosive growth, indicating a steady business operation.
-•	The residuals (the noise left after removing trend and seasonality) appear random. This means the additive model effectively captured the major patterns, and there are no obvious, unexplained events distorting the data.
+•	The decomposition shows strong, recurring yearly seasonality (period=52 weeks). This is visually evident as large, consistent peaks that 	occur at the same point each year (corresponding to the year-end holiday season around November/December) and troughs (e.g., in January).
+•	The trend component is relatively stable or slightly increasing over the 2010-2012 period. There is no evidence of a sharp decline or 		explosive growth, indicating a steady business operation.
+•	The residuals (the noise left after removing trend and seasonality) appear random. This means the additive model effectively captured the 	major patterns, and there are no obvious, unexplained events distorting the data.
 
 **Code:**
 
